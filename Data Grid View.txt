@@ -1,0 +1,9 @@
+Data Grid View For Defalut
+********************
+AllowUserToAddRows		False
+AllowUserToDeleteRows		False
+ColumnHeadersHeight		30
+ColumnHeadersHeightSizeMode	False
+ReadOnly				True
+
+RowTemplate>Height 40
